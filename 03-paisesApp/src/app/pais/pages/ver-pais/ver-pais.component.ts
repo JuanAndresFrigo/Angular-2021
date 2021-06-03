@@ -13,7 +13,7 @@ export class VerPaisComponent implements OnInit {
   pais!: Country;
 
   constructor(private activatedRoute: ActivatedRoute,
-    private paisService: PaisService) { }
+              private paisService: PaisService) { }
 
   ngOnInit(): void {
 
