@@ -30,7 +30,7 @@ export class MenuComponent implements OnInit {
           {
             label: 'No comunes',
             icon: ' pi pi-globe',
-            routerLink: 'numeros'
+            routerLink: 'no-comunes'
           }
         ]
       },
